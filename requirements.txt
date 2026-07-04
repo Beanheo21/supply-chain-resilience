@@ -1,0 +1,9 @@
+numpy
+scipy
+pulp
+streamlit
+plotly
+networkx
+pandas
+scikit-learn
+certifi
