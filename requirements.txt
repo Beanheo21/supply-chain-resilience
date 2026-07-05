@@ -1,9 +1,0 @@
-numpy
-scipy
-pulp
-streamlit>=1.30
-plotly
-networkx
-pandas
-scikit-learn>=1.4,<1.6
-certifi
